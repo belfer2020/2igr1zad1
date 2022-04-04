@@ -1,5 +1,5 @@
 # Zadanie
-> podczas edycji pliku .md otwórz go w zakładce **Preview** *(powyżej)*, będziesz mógł zobaczyć jak md formatuje tekst.  :relaxed:
+> podczas edycji pliku .md otwórz go w zakładce **Preview**, będziesz mógł zobaczyć jak md formatuje tekst.  :relaxed:
 
  ![logo ZSTI](/logo/logoZSTI_l.jpg)
  
