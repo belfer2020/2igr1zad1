@@ -1,6 +1,8 @@
 # Zadanie
-> otwórz ten plik w zakładce **Preview** *(powyżej)*, będziesz mógł zobaczyć jak md formatuje tekst.
+> otwórz ten plik w zakładce **Preview** *(powyżej)*, będziesz mógł zobaczyć jak md formatuje tekst.  :relaxed:
 
+ ![logo ZSTI](/logo/logoZSTI_l.jpg)
+ 
 > ### Termin 04.04.2022 r. godz 22:00!
 
 1. Utwórz repozytorium o nazwie ***Twojenazwisko2igr1Git1***
