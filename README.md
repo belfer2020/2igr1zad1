@@ -11,6 +11,7 @@
    - [x] dlaczego wybrałes szkołę ZSTI i kierunek technik informatyk
    - [x] co Ci się podoba w ZSTI
    - [x] co zmieniłbyś w ZSTI
+   - [x] dodaj Twoje zdjęcie
 1. Utwórz co najmniej 3 commity w Twojej kopii repo
 1. Jako rozwiązanie utwórz pull request.
 ***
