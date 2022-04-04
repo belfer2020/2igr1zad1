@@ -3,7 +3,7 @@
 
  ![logo ZSTI](/logo/logoZSTI_l.jpg)
  
-> ### Termin 04.04.2022 r. godz 22:00!
+> ### Termin 05.04.2022 r. godz 22:00!
 
 1. Utwórz repozytorium o nazwie ***Twojenazwisko2igr1Git1***
 1. Dodaj jako wspólpracownika użytkownika **belfer2020**
