@@ -2,7 +2,7 @@
 ### Nazywam się Emilia 
 
 
->>Dlaczego wybrałam szkolę ZSTI i kierunek technik informatyk?
+>?>Dlaczego wybrałam szkolę ZSTI i kierunek technik informatyk?
 ##### Wybrałam szkołę ZSTI Gliwice na kierunku informatycznym, ponieważ jest to najlepsze technikum na śląsku. W szkole możemy skupić się na danym zawodzie, zdobyć potrzebną  dla nas wiedzę, mamy więcej styczności z technologią - czyli tym, co mnie interesuje. Mamy także zapewnione praktyki, które dużo dadzą w przyszłości.
 
 >>Co mi się podoba w ZSTI?
