@@ -17,4 +17,5 @@
 Zdjęcie dodałam w oryginalnym zadaniu domowym, więc tutaj wstawię swoją ulubioną postać (bo robię to na lekcji i nie chcę pobierać mojego zdjęcia)
 
 ![alt](https://i.pinimg.com/736x/f0/98/63/f0986343f1af24c2dc502c6562b52954--ariel-the-little-mermaid-little-mermaids.jpg)
+
 ---
