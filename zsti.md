@@ -9,7 +9,7 @@
 :bread::bread::green_apple::strawberry:
 - W ZSTI podoba mi się atmofsera na zawodowych lekcjach, lekcje są prowadzone ciekawie a nie monotonnie. Trafiłam na 2 dziewczyny w klasie, z czego jestem bardzo zadowolona. :smiling_imp: :alien: :+1:
 ---
->> **Co zmieniłbyś w ZSTI?**
+>> **Co zmieniłabym w ZSTI?**
 :scream_cat::scream_cat::scream_cat::scream_cat: :busts_in_silhouette:
 - W ZSTI zmieniłabym ilość stref relaksu, wprowadzenie czajnika na korytarzach, żeby można było sobie zrobić herbatę albo zupkę chińską. Wychodzenie podczas lekcji wf na dwór na spacery i puszczanie piosenek przez radiowęzeł podczas długich przerw. :neckbeard: :green_heart: :girl:
 ---
